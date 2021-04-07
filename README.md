@@ -5,7 +5,7 @@ Units: 5.0. Lecture, four hours; laboratory, two hours; outside study, nine hour
 
 | Project | Score |
 | ------ | ------ |
-| Project 0 | 100/100 |
+| Project 0 | 100 / 100 |
 | Project 1A | 100 / 100 |
 | Project 1B | 100 / 100 |
 | Project 2A | 93 / 100 |
